@@ -1,0 +1,11 @@
+{
+  "name": "gulp-frontend-project",
+  "version": "1.0.0",
+  "description": "gulp frontend project",
+  "scripts": {
+
+  },
+  "keywords": ["gulp",  "js", "sass", "pug",  "linters"],
+  "author": "MaxVo",
+  "license": "WTFPL"
+}
